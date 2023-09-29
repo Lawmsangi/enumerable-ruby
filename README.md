@@ -21,9 +21,9 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [custom_enumerable_ruby] <a name="about-project"></a>
+# 📖 [enumerable_ruby] <a name="about-project"></a>
 
-**custom_enumerable_ruby**  This project implements the following methods #all? #any? #filter as the ones in ruby Enumerables.
+**enumerable_ruby**  This project implements the following methods #all? #any? #filter as the ones in ruby Enumerables.
 
 ## Project Requirements
 
